@@ -1,0 +1,11 @@
+READ ME:
+
+To run code, first change the file location to your own file location.  The variable of location path in code is 'dataFile'.
+For example, my location is :dataFile = 'C:/Users/hp/Desktop/MSc 1 seme/Pattern Recognition/CA1/spamData.mat'
+Then, you only need to replace it with your own file path.	
+
+Secondly, start with: if __name__ == '__main__': , which is at the bottom of each python code.
+
+Just enjoy running the code~ Thanks!
+
+(p.s: if you have any problem running the code, feel free to contact me: gzynus@gmail.com)
