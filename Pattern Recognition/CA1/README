@@ -1,0 +1,5 @@
+CA1 is about spam mails classification. 
+
+Four Different classifiers are used, including Beta-binomial Naive Bayes, Gaussian NB, Logistic Regression, K-Nearest Neighbor.
+
+Coding Language: Python
