@@ -1,1 +1,3 @@
 This is a goup project, conducted by 4 members. The raw data is from a real IoT system in Austin, U.S..Our objective is to predict natural gas consumption based on the raw dataset and personally collected relative dataset from Kaggle.
+
+The ML model used are including Linear Regression, SVR, LSTM and XGBoost.
