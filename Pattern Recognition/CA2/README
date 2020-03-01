@@ -1,0 +1,5 @@
+CA2 is about face recognition. 
+
+Two dimention reduction methods are employed, PCA and LDA; while 3 classifiers are used, KNN, SVM and Convolutional Neural Network.
+
+The performances regarding to different methods are analyzed in the report.
